@@ -1,0 +1,20 @@
+html
+{
+    width: 90%;
+}
+
+.HeaderFlexBox
+{
+    display: flex;
+    flex-direction: row;
+}
+
+.HeaderFlexBoxItems
+{
+    
+}
+
+.HeaderFlexBoxItems:nth-child(2)
+{
+
+}
