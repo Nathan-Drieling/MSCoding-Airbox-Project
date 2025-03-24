@@ -3,6 +3,11 @@ html
     width: 90%;
 }
 
+header
+{
+    background-color: #262336;
+}
+
 .HeaderFlexBox
 {
     display: flex;
