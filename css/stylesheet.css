@@ -1,11 +1,12 @@
-/* html
+html
 {
     width: 90%;
-} */
+    background-color: #262336;
+}
 
 header
 {
-    background-color: #262336;
+    /* background-color: #262336; */
 }
 
 .HeaderFlexBox
