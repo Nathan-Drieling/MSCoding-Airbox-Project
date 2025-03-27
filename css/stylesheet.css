@@ -119,9 +119,11 @@ button
 .ControlFlexBoxItems:nth-child(1)
 {
     color: white;
+    font-size: 18px;
 }
 
 .ControlFlexBoxItems:nth-child(2)
 {
     color: lightgray;
+    font-size: 14px;
 }
