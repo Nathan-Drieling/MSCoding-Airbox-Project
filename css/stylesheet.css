@@ -109,8 +109,8 @@ button
 
 .ControlFlexBox
 {
-    display: flex;
-    flex-direction: column;
+    /* display: flex;
+    flex-direction: column; */
 
     
 }
@@ -134,8 +134,8 @@ button
 
 .Multi-DomainFlexBox
 {
-    display: flex;
-    flex-direction: column;
+    /* display: flex;
+    flex-direction: column; */
 
 
 }
@@ -147,8 +147,8 @@ button
 
 .FTPFlexBox
 {
-    display: flex;
-    flex-direction: column;
+    /* display: flex;
+    flex-direction: column; */
 
    
 }
@@ -160,8 +160,8 @@ button
 
 .DirectFlexBox
 {
-    display: flex;
-    flex-direction: column;
+    /* display: flex;
+    flex-direction: column; */
 
    
 }
