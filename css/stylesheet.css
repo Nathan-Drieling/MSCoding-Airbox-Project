@@ -17,10 +17,10 @@ header
     position: relative;
 }
 
-.HeaderFlexBoxItems
+/* .HeaderFlexBoxItems
 {
 
-}
+} */
 
 .HeaderFlexBoxItems:nth-child(2)
 {
@@ -37,8 +37,7 @@ header
 
 ul 
 {
-    list-style-type: square;
-
+    list-style-type: none;
 }
 
 li
@@ -55,4 +54,31 @@ li a
 hr
 {
     border: 1px solid lightgrey;
+}
+
+.RealPersonFlexBox
+{
+    display: flex;
+    flex-direction: column;
+}
+
+.RealPersonFlexBoxItems
+{
+    text-align: center;
+    align-items: center;
+}
+
+.RealPersonFlexBoxItems:nth-child(1)
+{
+    color:lightgray;
+}
+
+.RealPersonFlexBoxItems:nth-child(2)
+{
+    color: white;
+}
+
+.RealPersonFlexBoxItems:nth-child(3)
+{
+    color: lightgray;
 }
