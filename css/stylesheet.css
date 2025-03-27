@@ -30,7 +30,7 @@ header
 .HeaderFlexBoxItems:nth-child(3)
 {
     position: relative;
-    bottom: 10px;
+    top: 20px;
 
     white-space: nowrap;
 }
