@@ -101,6 +101,9 @@ button
 .ControlMultiDomainFTPAndDirectFlexBoxItems
 {
     /* thinking what to put here */
+    text-align: center;
+    width: 200px;
+    margin: 1px;
 }
 
 .ControlFlexBox
