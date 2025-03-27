@@ -94,6 +94,8 @@ button
 {
     display: flex;
     flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
 
     background-color: #f29b66;
 }
@@ -102,8 +104,7 @@ button
 {
     /* thinking what to put here */
     text-align: center;
-    width: 1000px;
-    margin: 1px;
+    width: 100%;
 }
 
 .ControlFlexBox
@@ -111,7 +112,7 @@ button
     display: flex;
     flex-direction: column;
 
-    width: 25%;
+  
 }
 
 .ControlFlexBoxItems
@@ -136,7 +137,7 @@ button
     display: flex;
     flex-direction: column;
 
-    width: 25%;
+
 }
 
 .Multi-DomainFlexBoxItems
@@ -149,7 +150,7 @@ button
     display: flex;
     flex-direction: column;
 
-    width: 25%;
+   
 }
 
 .FTPFlexBoxItems
@@ -162,7 +163,7 @@ button
     display: flex;
     flex-direction: column;
 
-    width: 25%;
+   
 }
 
 .DirectFlexBoxItems
