@@ -33,7 +33,7 @@ header
 ul 
 {
     list-style-type: square;
-    
+
 }
 
 li
@@ -44,5 +44,5 @@ li
 li a
 {
     text-decoration: none;
-    color: white;
+    color: grey;
 }
