@@ -104,7 +104,7 @@ button
 {
     /* thinking what to put here */
     text-align: center;
-    width: 100%;
+    width: 30%;
 }
 
 .ControlFlexBox
@@ -112,7 +112,7 @@ button
     display: flex;
     flex-direction: column;
 
-  
+    
 }
 
 .ControlFlexBoxItems
