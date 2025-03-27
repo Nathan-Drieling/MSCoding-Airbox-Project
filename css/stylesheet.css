@@ -28,5 +28,6 @@ header
 .HeaderFlexBoxItems:nth-child(3)
 {
     display: inline;   
+    width: 90%;
 }
 
