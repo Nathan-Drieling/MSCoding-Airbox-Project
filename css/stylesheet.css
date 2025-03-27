@@ -31,3 +31,21 @@ header
     width: 90%;
 }
 
+ul 
+{
+    list-style-type: square;
+    margin: 0;
+    padding: 3px;
+    overflow: hidden;
+}
+
+li
+{
+    float: left;
+}
+
+li a
+{
+    display: block;
+    padding: 8px;
+}
