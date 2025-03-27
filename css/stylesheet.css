@@ -46,3 +46,9 @@ li a
     text-decoration: none;
     color: grey;
 }
+
+hr
+{
+    border: 1px solid grey;
+    width: 100%;
+}
