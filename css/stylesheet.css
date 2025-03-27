@@ -140,3 +140,29 @@ button
 {
     text-align: center;
 }
+
+.FTPFlexBox
+{
+    display: flex;
+    flex-direction: column;
+
+    width: 25%;
+}
+
+.FTPFlexBoxItems
+{
+    text-align: center;
+}
+
+.DirectFlexBox
+{
+    display: flex;
+    flex-direction: column;
+
+    width: 25%;
+}
+
+.DirectFlexBoxItems
+{
+    text-align: center;
+}
