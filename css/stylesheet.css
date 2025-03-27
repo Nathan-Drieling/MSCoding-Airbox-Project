@@ -97,3 +97,8 @@ button
 
     background-color: #f29b66;
 }
+
+.ControlMultiDomainFTPAndDirectFlexBoxItems
+{
+    align-items: center;
+}
