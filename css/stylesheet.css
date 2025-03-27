@@ -94,6 +94,7 @@ button
 {
     display: flex;
     flex-direction: row;
+    justify-content: space-between;
 
     background-color: #f29b66;
 }
@@ -107,6 +108,7 @@ button
 {
     display: flex;
     flex-direction: column;
+
 }
 
 .ControlFlexBoxItems
