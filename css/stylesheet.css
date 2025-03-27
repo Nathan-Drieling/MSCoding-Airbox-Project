@@ -100,6 +100,16 @@ button
 
 .ControlMultiDomainFTPAndDirectFlexBoxItems
 {
-    width: 200px;
-    align-items: center;
+    /* thinking what to put here */
+}
+
+.ControlFlexBox
+{
+    display: flex;
+    flex-direction: column;
+}
+
+.ControlFlexBoxItems
+{
+    text-align: center;
 }
