@@ -34,16 +34,16 @@ ul
 {
     list-style-type: square;
     
-    
 }
 
 li
 {
     float: left;
+    display: block;
 }
 
 li a
 {
-    display: block;
+    
     padding: 10px;
 }
