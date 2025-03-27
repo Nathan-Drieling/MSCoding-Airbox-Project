@@ -64,6 +64,7 @@ hr
 
 .RealPersonFlexBoxItems
 {
+    text-align: center;
     align-items: center;
 }
 
@@ -84,7 +85,7 @@ hr
 
 .RealPersonFlexBoxItems:nth-child(4)
 {
-    text-align: center;
+    
     margin: auto;
 }
 
