@@ -22,7 +22,7 @@ header
 
 .HeaderFlexBoxItems:nth-child(2)
 {
-
+    width: 90%;
 }
 
 .HeaderNav
