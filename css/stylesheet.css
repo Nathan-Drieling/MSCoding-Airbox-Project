@@ -13,6 +13,8 @@ header
 {
     display: flex;
     flex-direction: row;
+
+    position: relative;
 }
 
 .HeaderFlexBoxItems
@@ -27,7 +29,10 @@ header
 
 .HeaderFlexBoxItems:nth-child(3)
 {
-    
+    position: relative;
+    bottom: 10px;
+
+    white-space: nowrap;
 }
 
 ul 
