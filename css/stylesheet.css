@@ -44,11 +44,11 @@ li
 li a
 {
     text-decoration: none;
-    color: grey;
+    color: lightgrey;
 }
 
 hr
 {
-    border: 1px solid grey;
+    border: 1px solid lightgrey;
     width: 100%;
 }
