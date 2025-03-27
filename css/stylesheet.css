@@ -113,3 +113,13 @@ button
 {
     text-align: center;
 }
+
+.ControlFlexBoxItems:nth-child(1)
+{
+    color: white;
+}
+
+.ControlFlexBoxItems:nth-child(2)
+{
+    color: lightgray;
+}
