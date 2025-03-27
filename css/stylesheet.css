@@ -97,6 +97,7 @@ button
     justify-content: space-between;
     align-items: center;
 
+    width: 100%;
     background-color: #f29b66;
 }
 
@@ -104,13 +105,13 @@ button
 {
     /* thinking what to put here */
     text-align: center;
-    
+    width: 25%;
 }
 
 .ControlFlexBox
 {
-    /* display: flex;
-    flex-direction: column; */
+    display: flex;
+    flex-direction: column;
 
     
 }
@@ -134,8 +135,8 @@ button
 
 .Multi-DomainFlexBox
 {
-    /* display: flex;
-    flex-direction: column; */
+    display: flex;
+    flex-direction: column;
 
 
 }
@@ -147,8 +148,8 @@ button
 
 .FTPFlexBox
 {
-    /* display: flex;
-    flex-direction: column; */
+    display: flex;
+    flex-direction: column;
 
    
 }
@@ -160,8 +161,8 @@ button
 
 .DirectFlexBox
 {
-    /* display: flex;
-    flex-direction: column; */
+    display: flex;
+    flex-direction: column;
 
    
 }
