@@ -27,8 +27,7 @@ header
 
 .HeaderFlexBoxItems:nth-child(3)
 {
-    display: inline;   
-    width: 90%;
+    
 }
 
 ul 
@@ -46,5 +45,5 @@ li
 li a
 {
     display: block;
-    padding: 8px;
+    padding: 10px;
 }
