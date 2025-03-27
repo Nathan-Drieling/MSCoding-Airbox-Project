@@ -92,5 +92,8 @@ button
 
 .ControlMultiDomainFTPAndDirectFlexBox
 {
+    display: flex;
+    flex-direction: row;
+
     background-color: #f29b66;
 }
