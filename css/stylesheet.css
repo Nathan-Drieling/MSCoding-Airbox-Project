@@ -109,6 +109,7 @@ button
 .ControlFlexBoxItems
 {
     text-align: center;
+    margin: 0px;
 }
 
 .ControlFlexBoxItems:nth-child(1)
@@ -121,7 +122,7 @@ button
 {
     color: lightgray;
     font-size: 18px;
-    height: 20px;
+    height: 25px;
 }
 
 .Multi-DomainFlexBox
