@@ -104,6 +104,9 @@ button
 {
     /* thinking what to put here */
     /* text-align: center; */
+
+    margin-left: auto;
+    margin-right: auto;
     width: 25%;
 }
 
