@@ -120,7 +120,8 @@ button
 .ControlFlexBoxItems:nth-child(2)
 {
     color: lightgray;
-    font-size: 20px;
+    font-size: 18px;
+    height: 20px;
 }
 
 .Multi-DomainFlexBox
