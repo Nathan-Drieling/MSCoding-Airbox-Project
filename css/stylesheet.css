@@ -112,13 +112,20 @@ button
     text-align: center;
 }
 
-.ControlFlexBoxItems:nth-child(1)
+.ControlFlexBoxItems:nth-child(2)
 {
     color: white;
     font-size: 26px;
 }
 
-.ControlFlexBoxItems:nth-child(2)
+.ControlFlexBoxItems:nth-child(3)
+{
+    color: lightgray;
+    font-size: 18px;
+    height: 25px;
+}
+
+.ControlFlexBoxItems:nth-child(4)
 {
     color: lightgray;
     font-size: 18px;
