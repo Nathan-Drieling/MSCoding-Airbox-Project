@@ -136,8 +136,6 @@ button
 {
     display: flex;
     flex-direction: column;
-
-
 }
 
 .Multi-DomainFlexBoxItems
@@ -145,12 +143,29 @@ button
     text-align: center;
 }
 
+.Multi-DomainFlexBoxItems:nth-child(2)
+{
+    color: white;
+    font-size: 26px;
+}
+
+.Multi-DomainFlexBoxItems:nth-child(3)
+{
+    color: lightgray;
+    font-size: 24px;
+}
+
+.Multi-DomainFlexBoxItems:nth-child(4)
+{
+    font-size: 18px;
+}
+
+/* FTP Flex Box */
+
 .FTPFlexBox
 {
     display: flex;
     flex-direction: column;
-
-   
 }
 
 .FTPFlexBoxItems
@@ -158,15 +173,50 @@ button
     text-align: center;
 }
 
+.FTPFlexBoxItems:nth-child(2)
+{
+    color: white;
+    font-size: 26px;
+}
+
+.FTPFlexBoxItems:nth-child(3)
+{
+    color: lightgray;
+    font-size: 24px;
+}
+
+.FTPFlexBoxItems:nth-child(4)
+{
+    font-size: 18px;
+}
+
+
+/* Direct FlexBox */
+
 .DirectFlexBox
 {
     display: flex;
     flex-direction: column;
-
-   
 }
 
 .DirectFlexBoxItems
 {
     text-align: center;
+}
+
+.DirectFlexBoxItems:nth-child(2)
+{
+    color: white;
+    font-size: 26px;
+}
+
+.DirectFlexBoxItems:nth-child(3)
+{
+    color: lightgray;
+    font-size: 24px;
+}
+
+.DirectFlexBoxItems:nth-child(4)
+{
+    font-size: 18px;
 }
