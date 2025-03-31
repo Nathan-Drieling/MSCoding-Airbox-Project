@@ -220,3 +220,13 @@ button
 {
     font-size: 18px;
 }
+
+/* Hosting Flexbox */
+
+.HostingFlexBox
+{
+    display: flex;
+    flex-direction: row;
+
+    background-color: lightgrey;
+}
