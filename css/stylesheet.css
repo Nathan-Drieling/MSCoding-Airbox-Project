@@ -104,7 +104,6 @@ button
 {
     display: flex;
     flex-direction: column;
-    width: 25%;
 }
 
 .ControlFlexBoxItems
