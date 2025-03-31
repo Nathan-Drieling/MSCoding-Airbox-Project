@@ -122,7 +122,7 @@ button
 .ControlFlexBoxItems:nth-child(3)
 {
     color: lightgray;
-    font-size: 16px;
+    font-size: 18px;
 }
 
 .ControlFlexBoxItems:nth-child(4)
