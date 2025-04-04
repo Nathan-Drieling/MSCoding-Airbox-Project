@@ -331,12 +331,18 @@ button
     list-style: square;
 }
 
-.HostingServicesFlexBoxItems:nth-child(2) li
+.HostingServicesFlexBoxItems:nth-child(2) li,
+.ServerSolutionsFlexBoxItems:nth-child(2) li,
+.EmailSolutionsFlexBoxItems:nth-child(2) li,
+.MoreProductsFlexBoxItems:nth-child(2) li
 {
     color: white;
 }
 
-.HostingServicesFlexBoxItems:nth-child(2) li::marker
+.HostingServicesFlexBoxItems:nth-child(2) li::marker,
+.ServerSolutionsFlexBoxItems:nth-child(2) li::marker,
+.EmailSolutionsFlexBoxItems:nth-child(2) li::marker,
+.MoreProductsFlexBoxItems:nth-child(2) li::marker
 {
     color: red;
 }
