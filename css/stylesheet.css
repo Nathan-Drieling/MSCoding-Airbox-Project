@@ -249,6 +249,11 @@ button
     align-items: center;
 }
 
+.HostingServicesFlexBoxItems
+{
+    align-items: flex-start;
+}
+
 .HostingServicesFlexBoxItems:nth-child(1)
 {
     color: grey;
