@@ -239,7 +239,23 @@ button
     flex-direction: row;
 }
 
+.HostingServicesFlexBox
+{
+    align-items: center;
+}
+
 .HostingServicesFlexBox:nth-child(1)
 {
-    
+    color: lightgray;
+    font-size: 26px;
+}
+
+.HostingServicesFlexBox:nth-child(2)
+{
+    list-style: circle;
+}
+
+.HostingServicesFlexBox:nth-child(3)
+{
+    font-size: 12px;
 }
