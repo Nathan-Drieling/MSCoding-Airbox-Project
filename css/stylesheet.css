@@ -258,7 +258,7 @@ button
 
 .HostingServicesFlexBoxItems:nth-child(2) ul
 {
-    list-style: circle;
+    list-style: decimal;
     list-style-position: inside;    
     
   
