@@ -248,16 +248,23 @@ button
 
 .HostingServicesFlexBoxItems:nth-child(1)
 {
+    text-align: center;
     color: lightgray;
     font-size: 26px;
 }
 
 .HostingServicesFlexBoxItems:nth-child(2)
 {
+    text-align: center;
     list-style: circle;
 }
 
 .HostingServicesFlexBoxItems:nth-child(3)
 {
     font-size: 12px;
+}
+
+.HostingServicesFlexBoxItems:nth-child(4)
+{
+    text-align: center;
 }
