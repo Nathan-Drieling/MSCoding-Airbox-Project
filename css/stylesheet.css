@@ -246,7 +246,7 @@ button
     display: flex;
     flex-direction: column;
 
-    
+    align-items: center;
 }
 
 .HostingServicesFlexBoxItems
@@ -282,5 +282,5 @@ button
 
 .HostingServicesFlexBoxItems:nth-child(4)
 {
-    
+    background-color: #f29b66;
 }
