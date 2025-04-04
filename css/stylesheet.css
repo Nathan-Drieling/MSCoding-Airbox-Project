@@ -323,7 +323,10 @@ button
     font-size: 24px;
 }
 
-.HostingServicesFlexBoxItems:nth-child(2) ul
+.HostingServicesFlexBoxItems:nth-child(2) ul,
+.ServerSolutionsFlexBoxItems:nth-child(2) ul,
+.EmailSolutionsFlexBoxItems:nth-child(2) ul,
+.MoreProductsFlexBoxItems:nth-child(2) ul
 {
     list-style: square;
 }
