@@ -143,6 +143,7 @@ button
 .EmailSolutionsFlexBoxItems:nth-child(4)
 {
     font-size: 18px;
+    width: 65%;
 }
 
 /* HOSTING SECTION FLEXBOX */
@@ -280,7 +281,7 @@ button
     text-align: left;
     color: grey;
 
-    width: 75%;
+    width: 65%;
 }
 
 .HostingServicesFlexBoxItems:nth-child(4) button,
