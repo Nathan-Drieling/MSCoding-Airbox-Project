@@ -100,128 +100,52 @@ button
     background-color: #f29b66;
 }
 
-/* Control Flex Box */
+/* Flexbox for CONTROL, MULTI DOMAIN, DTP and DIRECT*/
 
 .ControlFlexBox
-{
-    display: flex;
-    flex-direction: column;
-}
-
-.ControlFlexBoxItems
-{
-    text-align: center;
-}
-
-.ControlFlexBoxItems:nth-child(2)
-{
-    color: white;
-    font-size: 26px;
-}
-
-.ControlFlexBoxItems:nth-child(3)
-{
-    color: lightgray;
-    font-size: 24px;
-}
-
-.ControlFlexBoxItems:nth-child(4)
-{
-    font-size: 18px;
-}
-
-/* Multi-DomainFlexBox */
-
-.Multi-DomainFlexBox
-{
-    display: flex;
-    flex-direction: column;
-}
-
-.Multi-DomainFlexBoxItems
-{
-    text-align: center;
-}
-
-.Multi-DomainFlexBoxItems:nth-child(2)
-{
-    color: white;
-    font-size: 26px;
-}
-
-.Multi-DomainFlexBoxItems:nth-child(3)
-{
-    color: lightgray;
-    font-size: 24px;
-}
-
-.Multi-DomainFlexBoxItems:nth-child(4)
-{
-    font-size: 18px;
-}
-
-/* FTP Flex Box */
-
-.FTPFlexBox
-{
-    display: flex;
-    flex-direction: column;
-}
-
-.FTPFlexBoxItems
-{
-    text-align: center;
-}
-
-.FTPFlexBoxItems:nth-child(2)
-{
-    color: white;
-    font-size: 26px;
-}
-
-.FTPFlexBoxItems:nth-child(3)
-{
-    color: lightgray;
-    font-size: 24px;
-}
-
-.FTPFlexBoxItems:nth-child(4)
-{
-    font-size: 18px;
-}
-
-
-/* Direct FlexBox */
-
+.Multi-DomainFlexBox,
+.FTPFlexBox,
 .DirectFlexBox
 {
     display: flex;
     flex-direction: column;
 }
 
+.ControlFlexBoxItems,
+.Multi-DomainFlexBoxItems,
+.FTPFlexBoxItems,
 .DirectFlexBoxItems
 {
     text-align: center;
 }
 
+.ControlFlexBoxItems:nth-child(2)
+.Multi-DomainFlexBoxItems:nth-child(2),
+.FTPFlexBoxItems:nth-child(2),
 .DirectFlexBoxItems:nth-child(2)
 {
     color: white;
     font-size: 26px;
 }
 
+.ControlFlexBoxItems:nth-child(3),
+.Multi-DomainFlexBoxItems:nth-child(3),
+.FTPFlexBoxItems:nth-child(3),
 .DirectFlexBoxItems:nth-child(3)
 {
     color: lightgray;
     font-size: 24px;
 }
 
-.DirectFlexBoxItems:nth-child(4)
+.ControlFlexBoxItems:nth-child(4)
+.Multi-DomainFlexBoxItems:nth-child(4),
+.FTPFlexBoxItems:nth-child(4),
+.EmailSolutionsFlexBoxItems:nth-child(4)
 {
     font-size: 18px;
 }
 
-/* Hosting Flexbox */
+/* HOSTING SECTION FLEXBOX */
 
 .HostingFlexBox
 {
