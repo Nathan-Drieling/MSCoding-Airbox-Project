@@ -347,14 +347,20 @@ button
     color: red;
 }
 
-.HostingServicesFlexBoxItems:nth-child(3)
+.HostingServicesFlexBoxItems:nth-child(3),
+.ServerSolutionsFlexBoxItems:nth-child(3),
+.EmailSolutionsFlexBoxItems:nth-child(3),
+.MoreProductsFlexBoxItems:nth-child(3)
 {
     font-size: 16px;
     text-align: left;
     color: grey;
 }
 
-.HostingServicesFlexBoxItems:nth-child(4) button
+.HostingServicesFlexBoxItems:nth-child(4) button,
+.ServerSolutionsFlexBoxItems:nth-child(4) button,
+.EmailSolutionsFlexBoxItems:nth-child(4) button,
+.MoreProductsFlexBoxItems:nth-child(4) button
 {
     background-color: #f29b66;
 }
