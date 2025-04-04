@@ -268,7 +268,7 @@ button
 .EmailSolutionsFlexBoxItems:nth-child(2) li::marker,
 .MoreProductsFlexBoxItems:nth-child(2) li::marker
 {
-    color: red;
+    color: #f29b66;
 }
 
 .HostingServicesFlexBoxItems:nth-child(3),
