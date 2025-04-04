@@ -301,3 +301,16 @@ button
     background-color: #332f40;
     justify-content: space-around;
 }
+
+footer
+{
+    background-color: #1a1921;
+}
+
+.footerFlexBox
+{
+    display: flex;
+    flex-direction: row;
+
+    position: relative;
+}
