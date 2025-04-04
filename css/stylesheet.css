@@ -239,7 +239,7 @@ button
     flex-direction: row;
 }
 
-.HostingServicesFlexBox
+.HostingServicesFlexBox:nth-child(1)
 {
-    text-align: center;
+    
 }
