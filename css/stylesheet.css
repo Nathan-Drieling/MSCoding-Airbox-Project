@@ -314,3 +314,8 @@ footer
 
     position: relative;
 }
+
+.footerFlexBoxItems:nth-child(3)
+{
+    width: 50%;
+}
