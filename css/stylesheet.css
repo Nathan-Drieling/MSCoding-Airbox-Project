@@ -280,7 +280,7 @@ button
     font-size: 12px;
 }
 
-.HostingServicesFlexBoxItems:nth-child(4)
+.HostingServicesFlexBoxItems:nth-child(4) button
 {
     background-color: #f29b66;
 }
