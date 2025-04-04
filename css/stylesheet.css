@@ -258,10 +258,7 @@ button
 
 .HostingServicesFlexBoxItems:nth-child(2) ul
 {
-    list-style: decimal;
-    list-style-position: inside;    
-    
-  
+    list-style: square;
 }
 
 .HostingServicesFlexBoxItems:nth-child(2) li
