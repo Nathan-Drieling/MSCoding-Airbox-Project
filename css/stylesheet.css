@@ -279,6 +279,8 @@ button
     font-size: 16px;
     text-align: left;
     color: grey;
+
+    width: 50%;
 }
 
 .HostingServicesFlexBoxItems:nth-child(4) button,
