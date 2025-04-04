@@ -256,7 +256,9 @@ button
 .HostingServicesFlexBoxItems:nth-child(2) ul
 {
     list-style: circle;
-    list-style-position: outside;     
+    list-style-position: outside;    
+    
+    justify-content: center;
 }
 
 .HostingServicesFlexBoxItems:nth-child(2) li
