@@ -251,9 +251,8 @@ button
 
 .HostingServicesFlexBoxItems:nth-child(1)
 {
-    text-align: center;
     color: grey;
-    font-size: 20px;
+    font-size: 24px;
 }
 
 .HostingServicesFlexBoxItems:nth-child(2) ul
@@ -278,5 +277,5 @@ button
 
 .HostingServicesFlexBoxItems:nth-child(4)
 {
-    text-align: justify;
+    
 }
