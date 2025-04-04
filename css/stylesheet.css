@@ -237,10 +237,9 @@ button
 {
     display: flex;
     flex-direction: row;
-    align-items: center;
 }
 
 .HostingServicesFlexBox
 {
-
+    text-align: center;
 }
