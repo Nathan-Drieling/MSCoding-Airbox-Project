@@ -255,10 +255,12 @@ button
 
 .HostingServicesFlexBoxItems:nth-child(2)
 {
-    text-align: center;
     list-style: circle;
     list-style-position: outside;
     
+    li::marker {
+        color: red;
+    }
 }
 
 .HostingServicesFlexBoxItems:nth-child(3)
