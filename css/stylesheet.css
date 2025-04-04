@@ -290,3 +290,12 @@ button
 {
     background-color: #f29b66;
 }
+
+/* Logos FlexBox and LogosFlexBoxItems */
+
+.LogosFlexBox
+{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
