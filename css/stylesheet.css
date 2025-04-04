@@ -259,6 +259,11 @@ button
     list-style-position: outside;     
 }
 
+.HostingServicesFlexBoxItems:nth-child(2) .li
+{
+    display: inline-block;    
+}
+
 .HostingServicesFlexBoxItems:nth-child(2) .li::marker
 {
     color: red;
