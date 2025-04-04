@@ -277,7 +277,8 @@ button
 
 .HostingServicesFlexBoxItems:nth-child(3)
 {
-    font-size: 12px;
+    font-size: 16px;
+    text-align: left;
 }
 
 .HostingServicesFlexBoxItems:nth-child(4) button
