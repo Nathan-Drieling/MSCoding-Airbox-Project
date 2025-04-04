@@ -266,7 +266,7 @@ button
 
 .HostingServicesFlexBoxItems:nth-child(2) li
 {
-      
+      color: lightgray;
 }
 
 .HostingServicesFlexBoxItems:nth-child(2) li::marker
