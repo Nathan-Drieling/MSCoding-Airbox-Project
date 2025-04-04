@@ -25,12 +25,12 @@ html
     white-space: nowrap;
 }
 
-.HeaderFlexBoxItems:nth-child(3) .ul
+.HeaderFlexBoxItems:nth-child(3) ul
 {
     list-style-type: none;
 }
 
-.HeaderFlexBoxItems:nth-child(3) .li
+.HeaderFlexBoxItems:nth-child(3) li
 {
     display: inline;
 }
@@ -253,18 +253,18 @@ button
     font-size: 26px;
 }
 
-.HostingServicesFlexBoxItems:nth-child(2) .ul
+.HostingServicesFlexBoxItems:nth-child(2) ul
 {
     list-style: circle;
     list-style-position: outside;     
 }
 
-.HostingServicesFlexBoxItems:nth-child(2) .li
+.HostingServicesFlexBoxItems:nth-child(2) li
 {
     display: inline-block;    
 }
 
-.HostingServicesFlexBoxItems:nth-child(2) .li::marker
+.HostingServicesFlexBoxItems:nth-child(2) li::marker
 {
     color: red;
 }
