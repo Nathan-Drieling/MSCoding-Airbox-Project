@@ -295,7 +295,10 @@ button
     flex-direction: row;
 }
 
-.HostingServicesFlexBox
+.HostingServicesFlexBox, 
+.ServerSolutionsFlexBox, 
+.EmailSolutionsFlexBox,
+.MoreProductsFlexBox
 {
     display: flex;
     flex-direction: column;
@@ -303,12 +306,18 @@ button
     align-items: center;
 }
 
-.HostingServicesFlexBoxItems
+.HostingServicesFlexBoxItems,
+.ServerSolutionsFlexBoxItems,
+.EmailSolutionsFlexBoxItems,
+.MoreProductsFlexBoxItems
 {
     align-items: flex-start;
 }
 
-.HostingServicesFlexBoxItems:nth-child(1)
+.HostingServicesFlexBoxItems:nth-child(1),
+.ServerSolutionsFlexBoxItems:nth-child(1),
+.EmailSolutionsFlexBoxItems:nth-child(1),
+.MoreProductsFlexBoxItems:nth-child(1)
 {
     color: grey;
     font-size: 24px;
