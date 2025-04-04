@@ -297,7 +297,9 @@ button
 {
     display: flex;
     flex-direction: row;
-    align-items: center;
 
-    background-color: gray;
+    background-color: darkgray;
+
+    align-items: center;
+    justify-content: space-around;
 }
