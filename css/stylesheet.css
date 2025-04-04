@@ -286,3 +286,57 @@ button
 {
     background-color: #f29b66;
 }
+
+/* HostingServerEmailAndProducts FlexBox and flexbox items */
+
+.HostingServerEmailAndProductsFlexBox
+{
+    display: flex;
+    flex-direction: row;
+}
+
+.HostingServicesFlexBox
+{
+    display: flex;
+    flex-direction: column;
+
+    align-items: center;
+}
+
+.HostingServicesFlexBoxItems
+{
+    align-items: flex-start;
+}
+
+.HostingServicesFlexBoxItems:nth-child(1)
+{
+    color: grey;
+    font-size: 24px;
+}
+
+.HostingServicesFlexBoxItems:nth-child(2) ul
+{
+    list-style: square;
+}
+
+.HostingServicesFlexBoxItems:nth-child(2) li
+{
+    color: white;
+}
+
+.HostingServicesFlexBoxItems:nth-child(2) li::marker
+{
+    color: red;
+}
+
+.HostingServicesFlexBoxItems:nth-child(3)
+{
+    font-size: 16px;
+    text-align: left;
+    color: grey;
+}
+
+.HostingServicesFlexBoxItems:nth-child(4) button
+{
+    background-color: #f29b66;
+}
