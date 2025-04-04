@@ -253,14 +253,12 @@ button
     font-size: 26px;
 }
 
-.HostingServicesFlexBoxItems:nth-child(2)
+.HostingServicesFlexBoxItems:nth-child(2), li
 {
     list-style: circle;
     list-style-position: outside;
     
-    li::marker {
-        color: red;
-    }
+    color:red;
 }
 
 .HostingServicesFlexBoxItems:nth-child(3)
