@@ -256,13 +256,10 @@ button
 .HostingServicesFlexBoxItems:nth-child(2)
 {
     list-style: circle;
-    list-style-position: outside;
-    
-    height: 30px;
-    line-height: 30px;
+    list-style-position: outside;     
 }
 
-li::marker 
+.HostingServicesFlexBoxItems:nth-child(2) .li::marker
 {
     color: red;
 }
